@@ -1,5 +1,9 @@
 # Omni-Analyst: Multi-Agent AI Verification System
 
+[![License: AGPL-3.0-only](https://img.shields.io/badge/license-AGPL--3.0--only-blue)](LICENSE)
+[![dual-license](https://img.shields.io/badge/dual--license-AGPL--3.0--only%20or%20commercial-blueviolet)](LICENSING.md)
+
+
 A 9-phase protocol for AI research with built-in cross-verification to 
 eliminate hallucination.
 
